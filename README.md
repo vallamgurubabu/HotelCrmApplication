@@ -102,7 +102,7 @@ HotelCRM/
 ## 🚀 How to Run the Project
 **1️⃣ Clone the Repository**  
 ```bash
-git clone <repository_link>
+git clone https://github.com/vallamgurubabu/HotelCrmApplication/tree/main
 cd HotelCRM
 ```
 
